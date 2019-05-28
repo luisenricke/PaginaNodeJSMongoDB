@@ -1,0 +1,26 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "Esto es un ejercicio del curso de codigo facilito con NodeJS y MongoDB.",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.5.11",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisenricke/PaginaNodeJSMongoDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisenricke/PaginaNodeJSMongoDB/issues"
+  },
+  "homepage": "https://github.com/luisenricke/PaginaNodeJSMongoDB#readme"
+}
